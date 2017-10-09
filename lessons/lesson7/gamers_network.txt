@@ -1,0 +1,49 @@
+John
+connections
+['Bryant', 'Debra', 'Walter', 'Freda']
+games
+['The Movie: The Game', 'The Legend of Corgi', 'Dinosaur Diner']Bryant
+connections
+['Olive', 'Ollie', 'Freda', 'Mercedes']
+games
+['City Comptroller: The Fiscal Dilemma', 'Super Mushroom Man']Mercedes
+connections
+['Walter', 'Robin', 'Bryant']
+games
+['The Legend of Corgi', 'Pirates in Java Island', 'Seahorse Adventures']Olive
+connections
+['John', 'Ollie']
+games
+['The Legend of Corgi', 'Starfleet Commander']Debra
+connections
+['Walter', 'Levi', 'Jennie', 'Robin']
+games
+['Seven Schemers', 'Pirates in Java Island', 'Dwarves and Swords']Walter
+connections
+['John', 'Levi', 'Bryant']
+games
+['Seahorse Adventures', 'Ninja Hamsters', 'Super Mushroom Man']Levi
+connections
+['Ollie', 'John', 'Walter']
+games
+['The Legend of Corgi', 'Seven Schemers', 'City Comptroller: The Fiscal Dilemma']Ollie
+connections
+['Mercedes', 'Freda', 'Bryant']
+games
+['Call of Arms', 'Dwarves and Swords', 'The Movie: The Game']Jennie
+connections
+['Levi', 'John', 'Freda', 'Robin']
+games
+['Super Mushroom Man', 'Dinosaur Diner', 'Call of Arms']Robin
+connections
+['Ollie']
+games
+['Call of Arms', 'Dwarves and Swords']Freda
+connections
+['Olive', 'John', 'Debra']
+games
+['Starfleet Commander', 'Ninja Hamsters', 'Seahorse Adventures']Nick
+connections
+[]
+games
+['Seven Schemers', 'The Movie: The Game']
